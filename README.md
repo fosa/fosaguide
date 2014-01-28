@@ -13,4 +13,5 @@ Achtung! Diese Regeln sind noch nicht definitiv und werden noch überarbeitet!
    - subsec:... für Unterkapitel
    - tab:... für Tabellen
    - sch:... für Schemen
-
+ - Zeilenlänge auf 80 Zeichen begrenzen
+ - 
