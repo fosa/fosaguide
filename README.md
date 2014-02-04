@@ -10,15 +10,15 @@ Allgemein
  - Zeilenlänge auf 80 Zeichen begrenzen
  - Eigene Datei für neues Kapitel
  - Labels: 
-   - fig:... für Grafiken
-   - sec:... für Kapitel
-   - subsec:... für Unterkapitel
-   - tab:... für Tabellen
-   - sch:... für Schemen
+   - {fig:...} für Grafiken
+   - {sec:...} für Kapitel
+   - {subsec:...} für Unterkapitel
+   - {tab:...} für Tabellen
+   - {sch:...} für Schemen
 
 Tabellen
 --------
- - Tabellen auch im Code strukturiert
+ - Tabellen auch im Code strukturieren
  - Schattierung antelle von Linien (mit lgray und white)
 
 Grafiken
@@ -26,5 +26,5 @@ Grafiken
  - Eigener Ordner für Grafiken
  - Vektorgrafiken 
  - Grundsätzlich selbst erstellt
- - Wenn aus fremden Quellen Lizenz beachten (wenn möglich cc)
+ - Wenn aus fremden Quellen, Lizenz beachten (wenn möglich cc)
 
