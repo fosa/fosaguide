@@ -5,13 +5,26 @@ Grundregeln für die Arbeit an FOSA
 
 Achtung! Diese Regeln sind noch nicht definitiv und werden noch überarbeitet! 
 
- - Eigener Ordner für Grafiken
- - Tabellen auch im Code strukturiert
+Allgemein
+---------
+ - Zeilenlänge auf 80 Zeichen begrenzen
+ - Eigene Datei für neues Kapitel
  - Labels: 
    - fig:... für Grafiken
    - sec:... für Kapitel
    - subsec:... für Unterkapitel
    - tab:... für Tabellen
    - sch:... für Schemen
- - Zeilenlänge auf 80 Zeichen begrenzen
- - 
+
+Tabellen
+--------
+ - Tabellen auch im Code strukturiert
+ - Schattierung antelle von Linien (mit lgray und white)
+
+Grafiken
+--------
+ - Eigener Ordner für Grafiken
+ - Vektorgrafiken 
+ - Grundsätzlich selbst erstellt
+ - Wenn aus fremden Quellen Lizenz beachten (wenn möglich cc)
+
