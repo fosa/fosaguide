@@ -11,8 +11,7 @@ Allgemein
  - Eigene Datei für neues Kapitel
  - Labels: 
    - {fig:...} für Grafiken
-   - {sec:...} für Kapitel
-   - {subsec:...} für Unterkapitel
+   - {sec:...} für Kapitel und Unterkapitel
    - {tab:...} für Tabellen
    - {sch:...} für Schemen
 
