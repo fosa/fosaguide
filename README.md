@@ -24,7 +24,7 @@ stets gegen Issues gearbeitet und wenn möglich eines nach dem anderen.
  - Issue assignen
  - Branch erstellen (für länger dauernde oder grössere Arbeiten)
  - Lokal testen und builden
- - build erfolgreich pushen 
+ - nach erfolgreichem build pushen 
  - Falls Issue abgeschlossen pushen mit issue-tag wie "close #33"
 
 ### Allgemeinde Contributor
@@ -86,7 +86,7 @@ Optional
 	glossar.tex
 	...
 
-#### /figures
+#### /fig
 Selbsterstellte Vektorgrafiken immer mit Originalformat (z.B. SVG) ablegen.
 	
 	template.svg
@@ -97,7 +97,7 @@ Selbsterstellte Vektorgrafiken immer mit Originalformat (z.B. SVG) ablegen.
 	"treffender-name".pdf
 	"treffender-name".svg
 
-#### /external
+#### /ext
 Manchmal möchte oder muss man Fremdinhalte einbinden. Diese sind separiert.
 
 	"fremde-inhalte".pdf
