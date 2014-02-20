@@ -103,3 +103,21 @@ Manchmal möchte oder muss man Fremdinhalte einbinden. Diese sind separiert.
 	"fremde-inhalte".pdf
 	...
 
+## FOSA-Tags
+
+Um die Kollaboration zu vereinfachen gibt es die FOSA-Tags.
+
+### Beispiele
+
+#### Bild einfügen
+
+	">>>FOSA: ..."
+
+
+	... hat einen Knick im Graphen (siehe Grafik \ref{fig:knick}).
+	
+	\begin{figure}
+		\centering
+		>>>FOSA: hier Plot einfügen
+	\end{figure}
+
