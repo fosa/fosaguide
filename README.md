@@ -111,13 +111,12 @@ Um die Kollaboration zu vereinfachen gibt es die FOSA-Tags.
 
 #### Bild einfügen
 
-	">>>FOSA: ..."
-
-
 	... hat einen Knick im Graphen (siehe Grafik \ref{fig:knick}).
 	
 	\begin{figure}
 		\centering
 		>>>FOSA: hier Plot einfügen
+		\caption{Graph mit einem Knick}
+		\label{fig:knick}
 	\end{figure}
 
