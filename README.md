@@ -27,7 +27,7 @@ stets gegen Issues gearbeitet und wenn möglich eines nach dem anderen.
  - nach erfolgreichem build pushen 
  - Falls Issue abgeschlossen pushen mit issue-tag wie "close #33"
 
-### Allgemeinde Contributor
+### Allgemeine Contributor
 Da beliebige Contributor keine Push-Rechte auf das Repository haben gehen 
 diese wie auf Github üblich vor.
 
