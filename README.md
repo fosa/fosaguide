@@ -56,9 +56,9 @@ diese wie auf Github üblich vor.
  - Eigener Ordner für Grafiken
  - Vektorgrafiken verwenden (EPS, PDF (SVG)) 
  - Falls Bitmap gleich ein Issue erstellen (JPG, PNG) zur Änderung
- - Grundsätzlich selbst erstellt (Tipp: Inkscape)
-  - Fremde Inhalte im Code vermerken mit Quellenverweis (ggf. auch im Output)
-  - Lizenzen fremder Inhalte beachten und freie vorziehen (wenn möglich cc)
+ - Grundsätzlich selbst erstellt - Tipp: Inkscape verwenden (http://www.inkscape.org/en/download/)
+  - Fremde Inhalte im Code vermerken mit Quellenverweis (ggf. auch im Output) und evtl. Issue erstellen
+  - Lizenzen fremder Inhalte beachten und freie vorziehen (wenn möglich cc oder Public Domain)
 
 ### Struktur
 Jede Fosa hat die gleiche Struktur welche die folgenden Elemente enthält.
