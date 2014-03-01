@@ -53,6 +53,8 @@ diese wie auf Github üblich vor.
  - Vertikale Linien wo möglich vermeiden
 
 ### Grafiken
+Grundsätzlich werden Grafiken selber erstellt mit Inkscape auf Basis der Vorlage "fig/template.svg" und als PDF mit dem gleichen Dateinamen exportiert (z.B. "plot.svg" wird zu "plot.pdf"). Sowohl die SVG-Datei als auch der PDF-Export davon werden im Repository abgelegt.
+ 
  - Eigener Ordner für Grafiken
  - Vektorgrafiken verwenden (EPS, PDF (SVG)) 
  - Falls Bitmap gleich ein Issue erstellen (JPG, PNG) zur Änderung
@@ -69,15 +71,19 @@ Jede Fosa hat die gleiche Struktur welche die folgenden Elemente enthält.
 	LICENSE
 	.gitignore
 
-Optional
+#### /build
 
 	makefile
 	"helper-skript".sh
 	
 #### /tex
 
-	"name-der-fosa".tex
+	"name-der-fosa".tex (z.B. fosamath-tiboth.tex)
 	"name-des-kapitels".tex
+	layout.sty
+	about.tex
+	content.tex
+	.header
 	...
 
 Optional
@@ -87,7 +93,7 @@ Optional
 	...
 
 #### /fig
-Selbsterstellte Vektorgrafiken immer mit Originalformat (z.B. SVG) ablegen.
+Selbsterstellte Vektorgrafiken immer mit Originalformat (z.B. SVG) ablegen. Grafiken die mit TikZ erstellt sind, gehören in die entsprechende .tex Datei.
 	
 	template.svg
 	template.eps
