@@ -44,7 +44,7 @@ diese wie auf Github üblich vor.
 
 ### Dateinamen
  - Grundsätzlich Lowercase verwenden
- - Grundsätzlich "-" Verbinder (CamelCase akzeptiert)
+ - Grundsätzlich "-" Verbinder
 
 ### Tabellen
  - Tabellen auch im Code strukturieren
