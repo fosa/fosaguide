@@ -7,6 +7,7 @@ Achtung! Diese Regeln sind noch nicht definitiv und werden noch überarbeitet!
 ## Grundlegende Code-Regeln
  - Zeilenlänge auf (maximal) 80 Zeichen begrenzen
  - Das Encoding ist UTF-8
+ - Einrückung sind mit 4 Whitespaces zu machen
  - Eigene Datei für neues Kapitel
  - Labels verwenden: 
   - \label{fig:...} für Grafiken
